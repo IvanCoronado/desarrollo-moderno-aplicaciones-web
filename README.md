@@ -38,3 +38,7 @@ Puede ver o descargar las diapostivas [aquí](http://www.slideshare.net/IvanCoro
 * [Thoghtram blog](http://blog.thoughtram.io/)
 * [Ben Nadel blog](http://www.bennadel.com/)
 
+## Libros recomendados
+* [Código Limpio: Manual de estilo para el desarrollo ágil de software](http://rcm-eu.amazon-adsystem.com/e/cm?t=gitivan-21&o=30&p=8&l=as1&asins=8441532109&ref=tf_til&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr)
+* [Interactive Data Visualization for the Web](http://www.amazon.es/gp/product/1449339735/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=1449339735&linkCode=as2&tag=gitivan-21) Buenisimo para introducirte en D3.js
+
