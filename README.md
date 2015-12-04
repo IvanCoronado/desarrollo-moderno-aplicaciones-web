@@ -10,6 +10,10 @@ Para los amantes de los nombres esto se traduce en yeoman, bower, grunt/gulp, SA
 # Slides
 Puede ver o descargar las diapostivas [aquí](http://www.slideshare.net/IvanCoronadoMoreno/desarrollo-moderno-de-aplicaciones-web-55831916)
 
+# Historial de charlas
+* 5/12/2015 - [GDCSevilla](http://www.meetup.com/es/GDGSevilla/events/226964943/)
+* 4/12/2015 - [Oficina Dinamic Área](https://www.google.es/maps/dir/''/oficina+dinamic+area/data=!4m5!4m4!1m0!1m2!1m1!1s0xd126e983c3482fb:0x54a85250d9d1f09f?sa=X&ved=0ahUKEwixzIKg-sLJAhWDcRQKHXGZAIEQ9RcIazAL) 
+
 # Tecnologías
 * [git](https://git-scm.com/downloads)
 * [node](https://nodejs.org/en/download/)
