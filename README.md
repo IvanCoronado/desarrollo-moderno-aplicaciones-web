@@ -32,7 +32,7 @@ Crea un issue e intentaré responderlo en cuanto tenga un minuto. :)
 * [Introduction to gulp](http://jilles.me/introduction-to-gulp/)
 
 ## Guía de estilos de angular
-* [John Papa styleguide](https://github.com/johnpapa/angular-styleguide) [español](https://github.com/johnpapa/angular-styleguide/blob/master/i18n/es-ES.md) (Lectura obligada si te interesa Angular)
+* [John Papa styleguide](https://github.com/johnpapa/angular-styleguide)  - [español](https://github.com/johnpapa/angular-styleguide/blob/master/i18n/es-ES.md) (Lectura obligada si te interesa Angular)
 * [Todd Motto styleguide](https://github.com/toddmotto/angularjs-styleguide)
 
 ## Blogs interesantes angular
