@@ -1,6 +1,6 @@
 # desarrollo-moderno-aplicaciones-web
 
-# Descripcción de la charla
+# Descripción de la charla
 El desarrollo de aplicaciones web, en su parte front-end, ha evolucionado muchísimo en estos últimos años. Son muchas las herramientas que "recientemente" han aparecido para facilitarnos la vida. Tantas, que puede llegar a ser abrumador a la hora de decidirnos e integrarlas todas juntas. 
 
 Independientemente de las tecnologías, hablaremos sobre buenas prácticas a seguir en nuestro flujo de trabajo. Conseguiremos ser más productivos, a la vez que generamos clientes más ligeros y optimizados. 
