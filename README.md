@@ -24,3 +24,17 @@ Puede ver o descargar las diapostivas [aquí](http://www.slideshare.net/IvanCoro
 * [grunt](https://github.com/gruntjs/grunt)
 
 # Enlaces recomendados
+## Tutoriales gulp
+* [Gulp for beginners](https://css-tricks.com/gulp-for-beginners/)
+* [Introduction to gulp](http://jilles.me/introduction-to-gulp/)
+
+## Guía de estilos de angular
+* [John Papa styleguide](https://github.com/johnpapa/angular-styleguide) [español](https://github.com/johnpapa/angular-styleguide/blob/master/i18n/es-ES.md) (Lectura obligada si te interesa Angular)
+* [Todd Motto styleguide](https://github.com/toddmotto/angularjs-styleguide)
+
+## Blogs interesantes angular
+* [Codelord blog](http://www.codelord.net/)
+* [Todd Motto blog](http://toddmotto.com/)
+* [Thoghtram blog](http://blog.thoughtram.io/)
+* [Ben Nadel blog](http://www.bennadel.com/)
+
